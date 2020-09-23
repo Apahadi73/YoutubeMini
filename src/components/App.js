@@ -1,5 +1,5 @@
 import React from "react";
-import { faArrowUp, faArrowCircleUp } from "@fortawesome/free-solid-svg-icons";
+import { faArrowCircleUp } from "@fortawesome/free-solid-svg-icons";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
@@ -12,10 +12,10 @@ class App extends React.Component {
     return (
       <div>
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
-          <a className="navbar-brand" href="#">
+          <div>
             <FontAwesomeIcon icon={faArrowCircleUp} />
             MiniYouTube
-          </a>
+          </div>
         </nav>
         <div className="container">
           <div>
