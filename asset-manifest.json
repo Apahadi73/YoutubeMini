@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Apahadi73/YoutubeMini/static/css/main.8b471234.chunk.css",
+    "main.js": "/Apahadi73/YoutubeMini/static/js/main.daa0dbdd.chunk.js",
+    "main.js.map": "/Apahadi73/YoutubeMini/static/js/main.daa0dbdd.chunk.js.map",
+    "runtime-main.js": "/Apahadi73/YoutubeMini/static/js/runtime-main.6db1b79c.js",
+    "runtime-main.js.map": "/Apahadi73/YoutubeMini/static/js/runtime-main.6db1b79c.js.map",
+    "static/js/2.170fd691.chunk.js": "/Apahadi73/YoutubeMini/static/js/2.170fd691.chunk.js",
+    "static/js/2.170fd691.chunk.js.map": "/Apahadi73/YoutubeMini/static/js/2.170fd691.chunk.js.map",
+    "index.html": "/Apahadi73/YoutubeMini/index.html",
+    "precache-manifest.72ba946ec6b13ba85dee47aa9c2ba2fc.js": "/Apahadi73/YoutubeMini/precache-manifest.72ba946ec6b13ba85dee47aa9c2ba2fc.js",
+    "service-worker.js": "/Apahadi73/YoutubeMini/service-worker.js",
+    "static/css/main.8b471234.chunk.css.map": "/Apahadi73/YoutubeMini/static/css/main.8b471234.chunk.css.map",
+    "static/js/2.170fd691.chunk.js.LICENSE.txt": "/Apahadi73/YoutubeMini/static/js/2.170fd691.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6db1b79c.js",
+    "static/js/2.170fd691.chunk.js",
+    "static/css/main.8b471234.chunk.css",
+    "static/js/main.daa0dbdd.chunk.js"
+  ]
+}
