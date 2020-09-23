@@ -7,7 +7,13 @@ class VideoDetail extends React.Component {
   render() {
     const video = this.props.selectedVideo;
     if (!video) {
-      return <div>Loading...</div>;
+      return (
+        <div className="iframeBox">
+          <div className="spinner-border text-info " role="status">
+            <span className="sr-only">Loading...</span>
+          </div>
+        </div>
+      );
     }
     const videoSrc = `https://www.youtube.com/embed/${video.id.videoId}`;
     return (

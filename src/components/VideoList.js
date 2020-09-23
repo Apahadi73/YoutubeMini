@@ -12,7 +12,7 @@ class VideoList extends React.Component {
     return this.props.youtubeVideos.map((video) => {
       return (
         <div key={video.id.videoId}>
-          <VideoItem video={video} />;
+          <VideoItem video={video} />
         </div>
       );
     });

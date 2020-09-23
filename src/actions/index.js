@@ -1,7 +1,7 @@
 //Action Creator
 import youtube from "../apis/youtube";
 
-const apiKey = "AIzaSyBoaOE0FHAuGsZMYHJ0ljG-H5Tb1DLbQZk";
+const apiKey = "AIzaSyCr68utaNgnuJ0j4t-uEiES8SnSqelsEpE";
 
 //gets user input
 export const getUserInput = (userInput) => {

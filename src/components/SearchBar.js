@@ -6,6 +6,8 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { connect } from "react-redux";
 import { getUserInput, fetchYoutubeVideos } from "../actions";
 
+import "./SearchBar.css";
+
 class SearchBar extends React.Component {
   renderView() {
     return (
